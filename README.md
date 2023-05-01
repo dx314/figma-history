@@ -1,6 +1,6 @@
 ## Figma Version History Analyzer
 
-This Python script retrieves the version history of a Figma project file and calculates the start and finish times of changes per day. The output is saved in a CSV file called raw_data.csv. Additionally, it generates a line graph showing the duration of changes per day with a baseline at 8 hours. The graph is saved as a PNG image named duration_line_graph.png.
+This Python script retrieves the version history of a Figma project file and calculates the start and finish times of changes per day. The output is saved in a CSV file called raw_data.csv. Additionally, it generates a line graph showing the duration of changes per day with a baseline at 8 hours. The graph are saved as PNG files in the local directory.
 
 ## Features
 
